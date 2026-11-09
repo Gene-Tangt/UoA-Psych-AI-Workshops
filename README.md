@@ -1,4 +1,4 @@
-<img alt="GitHub License" src="https://img.shields.io/github/license/Gene-Tangt/UoA-Psych-AI-Workshop">
+<img alt="GitHub License" src="https://img.shields.io/github/license/Gene-Tangt/UoA-Psych-AI-Workshops">
 
 <br>
 
