@@ -1,5 +1,3 @@
-<br>
-
 <div align="left">
 
 # UoA Psych AI Workshop
