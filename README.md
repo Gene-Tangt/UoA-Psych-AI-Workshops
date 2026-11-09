@@ -1,5 +1,3 @@
-<img alt="GitHub License" src="https://img.shields.io/github/license/Gene-Tangt/UoA-Psych-AI-Workshops">
-
 <br>
 
 <div align="left">
@@ -18,7 +16,7 @@ This repository contains the code and resources for the **UoA Psych AI Workshop*
 
 This is a workshop series and informal meet-up run in the School of Psychology. Generative AI is now part of everyday work, whether as a search assistant, a co-pilot, or an independent agent that carries out tasks on your behalf. These sessions are a space to share how we use these systems and swap practical tips and tricks.
 
-
+*Everyone is welcome to join the workshop, host a session, and contribute to the repository!*
 
 ## Sessions
 
@@ -40,4 +38,4 @@ Organiser:
 
 ## License
 
-[MIT License](LICENSE)
+<img alt="GitHub License" src="https://img.shields.io/github/license/Gene-Tangt/UoA-Psych-AI-Workshops">
